@@ -1,9 +1,3 @@
----
-layout: page
-title: "Jet Multiclassification"
-permalink: /
----
-
 # Introduction
 
 As data scientists, we are often driven towards those domains which generate vast amounts of data.  Social media, y, and z are all areas teeming with potential.  High-energy physics data is no exception.  The Large Hadron Collider (LHC) alone produces around 90 petabytes of data per year (roughly 240 terabytes per day)!  As such, there are thousands upon thousands of researchers combing through the LHC’s particle interactions to draw conclusions.  But, there exists one major difficulty in doing so:  the colliders themselves only have instruments that can detect physical quantities (energies, momentums, and the like).  As of yet, there exists no technology which can just magically detect the presence of various subatomic particles.  Any classification of particles must be done after the fact by researchers and their algorithms.
