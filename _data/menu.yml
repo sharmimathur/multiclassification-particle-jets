@@ -1,0 +1,11 @@
+- text: Home
+  url: /
+- text: About
+  url: /About.md
+- text: Methods
+  url: Methods.md
+  subitems:
+          - text: CNN
+            url: /cnn.md
+          - text: GNN
+            url: /gnn.md
