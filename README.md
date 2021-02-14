@@ -6,26 +6,27 @@ Different teams have different algorithms that they employ based on their specif
 
 The question then becomes, how well could our own model perform? That is, in implementing our own neural network, could we achieve a high level of model performance?
 
-#### Pipeline
+### Pipeline
 (high level view of how our project was completed)
 
-# Our Process: (maybe toggle tabs or which is shown?)
+# Our Process:
+(maybe toggle tabs or which is shown?)
 On the whole, we thought it best to approach this task from multiple perspectives.  Our previous work (link to a pdf of our final paper from last year) employed a one-dimensional convolutional neural network.  During our process of building that model, we became more aware of other architectures which existed which could perhaps be better suited to our problem at hand.  Thus, we set about investigating and implementing the following architectures:
 
-#### CNN
+### CNN
 Explain what it is, and our history with it.
-#### ENN
+### ENN
 Explain what it is, and how our efforts with it faltered
-#### GNN
+### GNN
 Explain what it is, etc
 
 
 # Impact:
-#### Results
+### Results
 (more reporting on what we got)
 Image of our performance
 
-#### Impact
+### Impact
 (how what we got matters)
 
 
